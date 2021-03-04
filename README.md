@@ -8,7 +8,7 @@ A Blog backend built using express server, mongoDB atlas is used to store the da
 ### Downloading and Running this Project Locally
 1. clone the repository
 ```
-git clone https://github.com/ialtafshaikh/blog-backend.git
+git clone https://github.com/altafshaikh/Simple-Blog-Backend.git
 ```
 2. add a ``.env`` file inside the root folder
 ```
